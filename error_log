@@ -1,0 +1,10 @@
+[08-Jul-2024 18:59:38 UTC] PHP Warning:  Use of undefined constant candy - assumed 'candy' (this will throw an Error in a future version of PHP) in /home/tifk9911/public_html/aplikasidatabase/login.php on line 41
+[08-Jul-2024 19:00:51 UTC] PHP Notice:  Undefined variable: ub in /home/tifk9911/public_html/aplikasidatabase/function_pengunjung.php on line 103
+[08-Jul-2024 19:00:51 UTC] PHP Notice:  Undefined variable: ub in /home/tifk9911/public_html/aplikasidatabase/function_pengunjung.php on line 103
+[08-Jul-2024 19:06:30 UTC] PHP Warning:  Use of undefined constant candy - assumed 'candy' (this will throw an Error in a future version of PHP) in /home/tifk9911/public_html/aplikasidatabase/login.php on line 41
+[10-Jul-2024 04:04:18 UTC] PHP Notice:  Undefined variable: ub in /home/tifk9911/public_html/aplikasidatabase/function_pengunjung.php on line 103
+[10-Jul-2024 04:04:18 UTC] PHP Notice:  Undefined variable: ub in /home/tifk9911/public_html/aplikasidatabase/function_pengunjung.php on line 103
+[10-Jul-2024 04:09:26 UTC] PHP Warning:  Use of undefined constant candy - assumed 'candy' (this will throw an Error in a future version of PHP) in /home/tifk9911/public_html/aplikasidatabase/login.php on line 41
+[10-Jul-2024 04:09:59 UTC] PHP Warning:  Use of undefined constant candy - assumed 'candy' (this will throw an Error in a future version of PHP) in /home/tifk9911/public_html/aplikasidatabase/login.php on line 41
+[10-Jul-2024 04:27:13 UTC] PHP Warning:  Use of undefined constant candy - assumed 'candy' (this will throw an Error in a future version of PHP) in /home/tifk9911/public_html/aplikasidatabase/login.php on line 41
+[10-Jul-2024 04:37:34 UTC] PHP Warning:  Use of undefined constant candy - assumed 'candy' (this will throw an Error in a future version of PHP) in /home/tifk9911/public_html/aplikasidatabase/login.php on line 41
